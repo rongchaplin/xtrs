@@ -27,3 +27,13 @@ _$*
 core
 cscope.*
 # CVS default ignores end
+
+# IDE ignores begin
+.idea
+cmake-build-debug
+CMakeLists.txt
+#IDE ignores end
+xtrs.cbp
+/CMakeFiles/
+/cmake_install.cmake
+/CMakeCache.txt

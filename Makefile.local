@@ -5,7 +5,7 @@
 
 # Set these to where you want installed stuff to go, if you install
 
-PREFIX = $(DESTDIR)/usr
+PREFIX = /home/rchaplin/trs-80-emu/xtrs-bin/usr
 BINDIR = $(PREFIX)/bin
 MANDIR = $(PREFIX)/share/man
 DOCDIR = $(PREFIX)/share/doc/xtrs
